@@ -49,3 +49,30 @@ next();
 
 // --------------------
 
+console.log("1" - 1);
+console.log("1" + 1);
+
+// --------------------
+let abc;
+
+function scp() {
+  let abc = 10;
+}
+console.log(abc);
+scp();
+
+// --------------------
+let sum = 0;
+
+function scp() {
+  for (let i = 0; i < 5; i++) {
+    console.log(i);
+    sum += i;
+    
+  }
+}
+
+console.log(abc);
+scp();
+
+// --------------------
