@@ -35,3 +35,17 @@ switch (day) {
 }
 
 console.log(dayName);
+
+// --------------------
+
+var a = 5;
+var b = 10;
+
+function next(){
+  console.log("Next Level JS Testing Functionalities");
+}
+
+next();
+
+// --------------------
+
