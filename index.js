@@ -41,7 +41,7 @@ console.log(dayName);
 var a = 5;
 var b = 10;
 
-function next(){
+function next() {
   console.log("Next Level JS Testing Functionalities");
 }
 
@@ -69,15 +69,10 @@ function scp() {
   for (let i = 0; i < 5; i++) {
     console.log(i);
     sum += i;
-    
   }
 }
 
 console.log(abc);
 scp();
-
-
-
-
 
 // --------------------
