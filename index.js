@@ -58,6 +58,7 @@ let abc;
 function scp() {
   let abc = 10;
 }
+
 console.log(abc);
 scp();
 
